@@ -28,6 +28,8 @@ creator:
     gutenberg_agent_id: '40963'
     url: http://www.gutenberg.org/2009/agents/40963
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41069#Calumny-Refuted-by-Facts-from-LiberiaAuthor-of--A-Tribute-For-The-Negro.-
 gutenberg_issued: '2012-10-15'
 gutenberg_type: Text
 identifiers:
