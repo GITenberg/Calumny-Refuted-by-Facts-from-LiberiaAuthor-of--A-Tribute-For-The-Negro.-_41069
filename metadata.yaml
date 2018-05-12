@@ -1,0 +1,50 @@
+_repo: Calumny-Refuted-by-Facts-from-LiberiaAuthor-of--A-Tribute-For-The-Negro.-_41069
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Garnet, Henry Highland
+    alias: Garnett, H. H. (Henry Highland)
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '6763'
+    url: http://www.gutenberg.org/2009/agents/6763
+  - agent_name: Roberts, Joseph J. (Joseph Jenkins)
+    alias: Roberts, Joseph Jenkins, pres. of Liberia
+    birthdate: 1809
+    deathdate: 1876
+    gutenberg_agent_id: '45862'
+    url: http://www.gutenberg.org/2009/agents/45862
+  - agent_name: Teage, Hilary
+    gutenberg_agent_id: '40903'
+    url: http://www.gutenberg.org/2009/agents/40903
+covers:
+- cover_type: archival
+  image_path: 41069-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Armistead, Wilson
+    alias: Tuvar, Lorenzo
+    deathdate: 1868
+    gutenberg_agent_id: '40963'
+    url: http://www.gutenberg.org/2009/agents/40963
+description: ''
+gutenberg_issued: '2012-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41069'
+  lccn: '24003758'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Colonization -- Africa'
+- !lcsh 'Liberia'
+- !lcc 'DT'
+title: "Calumny Refuted by Facts From Liberia\r\nWith Extracts From the Inaugural\
+  \ Address of the Coloured President Roberts; an Eloquent Speech of Hilary Teage,\
+  \ a Coloured Senator; and Extracts From a Discourse by H. H. Garnett, a Fugitive\
+  \ Slave, on the Past and Present Condition, and Destiny of the Coloured Race. Presented\
+  \ to the Boston Anti-slavery Bazaar, U.S., By the Author of \"A Tribute for the\
+  \ Negro.\""
+url: http://www.gutenberg.org/ebooks/41069
